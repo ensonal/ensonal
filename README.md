@@ -20,8 +20,8 @@
  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> </a> </p>
  
  <h3 align="left">Connect With Me</h3>
- <p align="left"> <a href="mailto:enes.onal777@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="40" height="40"/> </a>
- <a href="https://linkedin.com/in/ensonal" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="flutter" width="40" height="40"/> </a>
+ <p align="left"> <a href="https://linkedin.com/in/ensonal" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="flutter" width="40" height="40"/> </a>
+ <a href="https://www.instagram.com/ensonal/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="insta" width="40" height="40"/> </a>
  
 <h1> </h1>
 
