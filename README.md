@@ -25,7 +25,8 @@
  
 <h1> </h1>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensonal&show_icons=true&locale=en&layout=compact" alt="ensonal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ensonal&show_icons=true&locale=en" alt="ensonal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensonal&show_icons=true&locale=en&layout=compact" alt="ensonal" /></p>
  
  
  
