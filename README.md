@@ -6,7 +6,7 @@
 
 - 🔭 Actively looking for an internship.
 - 🌱 Currently learning <b>Java, Dart and Flutter.</b>
-- 🤔 Looking for help with mobile development.
+- 🤔 Looking for help with Java and mobile development.
 - ⚡ <b> Sports:</b>  Snowboarding - Paragliding 🏂🪂
 - 📫 <b> Email:</b> enes.onal777@gmail.com
 
