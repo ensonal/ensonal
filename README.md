@@ -4,7 +4,7 @@
 <h1>Hi there 👋</h1>
 
 
-- 🔭 Actively looking for an internship.
+- 🔭 Actively looking for an internship and part-time job.
 - 🌱 Currently learning <b>Java, Dart and Flutter.</b>
 - 🤔 Looking for help with Java and mobile development.
 - ⚡ <b> Sports:</b>  Snowboarding - Paragliding 🏂🪂
