@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ensonal.ensonal"> 
 
 <h1>Hi there 👋</h1>
-- 👨🏻‍💻 Working as a full stack developer in freelance projects.
+- 👨🏻‍💻 Working as a full stack developer in freelance projects.</b>
 - 📈 Currently developing <b>C#, .NetCore and design API for microservices.</b>
 - 🌱 Currently learning <b>SQL architecture.</b>
 - ⚡ <b> Sports:</b>  Snowboarding - Paragliding 🏂🪂
