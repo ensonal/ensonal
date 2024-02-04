@@ -1,12 +1,12 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ensonal.ensonal"> 
 
-<h1>Hi there 👋</h1>
-- 👨🏻‍💻 Working as a full stack developer in freelance projects.</b>
-- 📈 Currently developing <b>C#, .NetCore and design API for microservices.</b>
-- 🌱 Currently learning <b>SQL architecture.</b>
-- ⚡ <b> Sports:</b>  Snowboarding - Paragliding 🏂🪂
-- 📫 <b> Email:</b> enes.onal.w@gmail.com
+# Hi there 👋
+
+- 👨🏻‍💻 **Working as a full stack developer in freelance projects.**
+- 📈 **Currently developing C#, .NetCore and designing API for microservices.**
+- 🌱 **Currently learning SQL architecture.**
+- ⚡ **Sports:** Snowboarding - Paragliding 🏂🪂
+- 📫 **Email:** enes.onal.w@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="c#" width="40" height="40"/> </a>
