@@ -5,7 +5,6 @@
 - 👨🏻‍💻 **Working as a full stack developer.**
 - 📈 **Currently developing C#, .NetCore and designing API for microservices.**
 - 🌱 **Currently learning SQL architecture.**
-- ⚡ **Sports:** Snowboarding - Paragliding 🏂🪂
 - 📫 **Email:** enes.onal.w@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
