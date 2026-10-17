@@ -18,10 +18,6 @@
  <h3 align="left">Connect With Me</h3>
  <p align="left"> <a href="https://linkedin.com/in/ensonal" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="flutter" width="40" height="40"/> </a>
  
-<h1> </h1>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ensonal&show_icons=true&locale=en" alt="ensonal" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ensonal&show_icons=true&locale=en&layout=compact" alt="ensonal" /></p>
  
  
  
